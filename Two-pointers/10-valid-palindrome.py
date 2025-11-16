@@ -26,3 +26,4 @@ class Solution:
 
 # solution approach
 # time complexity :- O(n)
+# space complexity :- O(1)
